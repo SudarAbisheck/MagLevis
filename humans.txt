@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Sudar Abisheck -- Lead Developer -- twitter.com/sudarabisheck
+
+# THANKS
+
+    Srinath VS
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
+    PHP, MySQL
