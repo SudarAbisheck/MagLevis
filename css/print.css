@@ -1,12 +1,12 @@
 
 @font-face{
     font-family: QuickSand_Bold;
-    src: url(https://dl.dropboxusercontent.com/s/uuompuqzi8drc4k/Quicksand_Bold.woff?dl=1);
+    src: url(../fonts/Quicksand_Bold.woff);
 }
 
 @font-face{
     font-family: QuickSand_Book;
-    src: url(https://dl.dropboxusercontent.com/s/t7wohb0t0xxvjhm/Quicksand_Book.woff?dl=1);
+    src: url(../fonts/QuickSand_Book.woff);
 }
 body{
     background: #eee;
